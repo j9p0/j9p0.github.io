@@ -123,7 +123,7 @@ ol li
 { width: 898px;
   height: 52px;
   padding: 0;
-  background: #000;} 
+  background: #F0EFE2 url(background_menu.png) repeat;} 
 
 ul#menu, ul#menu li
 { float: left;
@@ -142,7 +142,7 @@ ul#menu li a
   margin: 10px 0 0 10px;
   padding: 9px 26px 6px 26px;
   text-align: center;
-  color: #FFF;
+  color: #0000ff	;
   text-transform: uppercase;
   text-decoration: none;
   background: transparent;} 
@@ -156,7 +156,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 0 24px 20px 20px;
-  background: #000;} 
+  background: #F0EFE2 url(background_content.png) repeat;} 
 
 .sidebar
 { float: right;
